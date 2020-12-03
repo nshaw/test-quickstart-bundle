@@ -4,7 +4,7 @@ description: Sample - About Us
 mainGroup: free
 status: PUBLIC
 #listModel: '10024'
-defaultModel: '10004'
+#defaultModel: '10004'
 attributes:
   - code: image
     value: null

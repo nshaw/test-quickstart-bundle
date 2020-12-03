@@ -4,7 +4,7 @@ description: A Modern Platform for Modern UX
 mainGroup: free
 status: PUBLIC
 #listModel: '10023'
-defaultModel: '10003'
+#defaultModel: '10003'
 attributes:
   - code: title
     value: null
