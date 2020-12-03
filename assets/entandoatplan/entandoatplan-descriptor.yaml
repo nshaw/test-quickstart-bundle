@@ -1,0 +1,7 @@
+#correlationCode: 'my-reference-code'
+type: image
+# This file should be placed on same folder as the descriptor.yaml
+name: entando_at_plan.jpg
+description: entando_at_plan.jpg
+group: free
+categories: []

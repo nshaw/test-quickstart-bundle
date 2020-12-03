@@ -1,0 +1,7 @@
+#correlationCode: 'my-reference-code'
+type: image
+# This file should be placed on same folder as the descriptor.yaml
+name: html_code.jpg
+description: html_code.jpg
+group: free
+categories: []
