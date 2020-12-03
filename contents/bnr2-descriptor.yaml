@@ -3,7 +3,7 @@ typeCode: BNR
 description: Sample Banner
 mainGroup: free
 status: PUBLIC
-listModel: '10023'
+#listModel: '10023'
 defaultModel: '10003'
 attributes:
   - code: title

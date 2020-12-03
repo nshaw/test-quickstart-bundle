@@ -4,7 +4,7 @@ description: Why You Need a Micro Frontend Platform for Kubernetes
 mainGroup: free
 status: PUBLIC
 viewPage: news
-listModel: '10022'
+#listModel: '10022'
 defaultModel: '10002'
 attributes:
   - code: date

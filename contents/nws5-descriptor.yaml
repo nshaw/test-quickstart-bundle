@@ -4,7 +4,7 @@ description: 'Entando and JHipster: How It Works'
 mainGroup: free
 status: PUBLIC
 viewPage: news
-listModel: '10022'
+#listModel: '10022'
 defaultModel: '10002'
 attributes:
   - code: date
